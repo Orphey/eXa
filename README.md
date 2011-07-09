@@ -1,6 +1,6 @@
 # eXa
 
-eXa is a control application for your working hours. Log when you arrive at work and when you leave. Add some comments for evry days and make statistics with the location, the hours, the projects you work.
+eXa is a control application for your working hours. Log when you arrive at work and when you leave. Add some comments for every days and make statistics with the location, the hours, the projects you work.
 
 ## Techs
 
